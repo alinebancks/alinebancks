@@ -10,6 +10,11 @@
 
 ### About Me
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arabian_Nights_-_Letchford_-_68.jpg/960px-Arabian_Nights_-_Letchford_-_68.jpg" width="250" />
+</p>
+
+
 I am a developer passionate about the **back-end universe**, where structure meets creativity.
 I enjoy exploring **new languages**, testing **local AI**, and creating **modular systems** that truly *feel alive*.
 My journey in tech is not about a single language; it is about *mastering the art of learning*.
