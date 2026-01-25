@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=22&pause=1000&color=B30059&center=true&vCenter=true&width=600&lines=Destiny+is+not+luck,+it+is+a+choice.;Reality+is+programmable." alt="Typing SVG" />
 </a>
 
----
-
 ## About Me
 
 I am a backend developer passionate about building **robust, maintainable, and modular systems**.  
