@@ -30,9 +30,7 @@ I explore and experiment with:
 |:--------|:------------|:------------|
 | **EuVisto** | Group e-commerce project focused on architecture and integration | `PHP` `MySQL` `REST API` |
 | **Local AI Core** | OpenAI-compatible API running Phi-3 Mini locally | `Python` `FastAPI` `pgvector` |
-| **Central Custo** | Modular backend for financial data management | `Python` `Automation` `Docker` |
-| **Influence AI** | Personal model integrating external tools (RAG) | `Python` `Embeddings` `LLM` |
-
+| **Central Custo** | Modular backend for financial data management | `Python`|
 ---
 
 ## Connect with me
