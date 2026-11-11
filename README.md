@@ -17,14 +17,11 @@ My work centers around **system integration, database architecture, and backend 
 ### Languages
 - **PHP**
 - **Python**
-- **C# / .NET**
-- COBOL
 
 ### Backend Frameworks
 - **Laravel**
 - **FastAPI**
 - **Flask**
-- **ASP.NET Core**
 
 ### Databases
 - **PostgreSQL**
